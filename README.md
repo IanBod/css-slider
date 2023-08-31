@@ -5,14 +5,14 @@ An easy-to-add pure CSS 2-way or 3-way sliding switch
 
 ```
 <label class="slider">
-<input class="sliderOption" type="radio" name="test1" data-letter="N" value="N">
-<input class="sliderOption" type="radio" name="test1" data-letter="?" value="U" checked>
-<input class="sliderOption" type="radio" name="test1" data-letter="Y" value="Y">
+<input class="sliderOption" type="radio" name="one" data-letter="N" value="N">
+<input class="sliderOption" type="radio" name="one" data-letter="?" value="U" checked>
+<input class="sliderOption" type="radio" name="one" data-letter="Y" value="Y">
 </label>
 
 <label class="slider">
-<input class="sliderOption" type="radio" name="test3" value="1">
-<input class="sliderOption" type="radio" name="test3" value="2" checked>
+<input class="sliderOption" type="radio" name="two" value="1">
+<input class="sliderOption" type="radio" name="two" value="2" checked>
 </label>
 ```
 
