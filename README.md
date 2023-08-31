@@ -3,6 +3,16 @@ A pure CSS 2-way or 3-way sliding switch
 
 An easy-to-add pure CSS 2-way or 3-way sliding switch
 
+## Include the stylesheet
+
+```
+<link rel="stylesheet" href="https://www.boddison.com/public/slider.css">
+```
+
+## Add HTML to form
+
+Include the HTML as shown.  This can be included in an HTML form in the usual way.  Note that it is important that one option is initially `checked` for the switch to render properly.
+
 ```
 <label class="slider">
 <input class="sliderOption" type="radio" name="one" data-letter="N" value="N">
