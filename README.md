@@ -16,7 +16,7 @@ An easy-to-add pure CSS 2-way or 3-way sliding switch
 </label>
 ```
 
-The switches will be labelled with the `value` attribute unless a `data-letter` attribute is included.
+The switches will be labelled with the `value` attribute unless a `data-letter` attribute is included.  To omit the label, set a space character as the label using `data-letter=" "`
 
 ## Customisation
 
